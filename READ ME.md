@@ -1,3 +1,0 @@
-# DEMO
-
-first DEMO
